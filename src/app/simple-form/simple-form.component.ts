@@ -3,9 +3,10 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-simple-form',
   template: `
-    <p>
-      simple-form Works!
-    </p>
+    <div>
+    <input type='text'>
+    <button></button>
+    </div>
   `,
   styles: []
 })
